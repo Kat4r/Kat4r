@@ -32,6 +32,7 @@ Aqui será meu cantinho onde compartilharei meu workflow, meus projetos, meus tr
 
 - [Meu Instragram](https://www.instagram.com/__katarino/)
 - [Meu Linkedin](https://www.linkedin.com/in/katoliveira/)
+- [Meu Portfolio](https://github.com/Kat4r/Portfolio)
 
 
 ## Contribuição
