@@ -20,7 +20,7 @@ Aqui será meu cantinho onde compartilharei meu workflow, meus projetos, meus tr
 **Aqui citarei algumas langs que tenho estudado;**
 >Por ter começado em Python, acabou sendo uma das que mais me aprofundei em ir atrás de libs, frameworks etc.
 ---
-- Python
+- Python (OLS, PLT, NP, SP, Scipy, PD) 
 - C
 - Java
 - MySQL
@@ -32,7 +32,7 @@ Aqui será meu cantinho onde compartilharei meu workflow, meus projetos, meus tr
 
 - [Meu Instragram](https://www.instagram.com/__katarino/)
 - [Meu Linkedin](https://www.linkedin.com/in/katoliveira/)
-- [Meu Portfolio](https://github.com/Kat4r/Portfolio)
+- [Meu Portfolio](https://github.com/Kat4r/Portfolio) #WIP
 
 
 ## Contribuição
@@ -40,5 +40,4 @@ Aqui será meu cantinho onde compartilharei meu workflow, meus projetos, meus tr
 - 🔧 Se você tiver alguma sugestão ou melhoria para qualquer um dos meus projetos (Ou até mesmo pro meu github),
 - fique à vontade para abrir uma issue ou enviar um pull request.
 
-Voltei =)
 
