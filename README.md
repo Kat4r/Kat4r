@@ -1,5 +1,7 @@
 # sout("Hello, stranger.");
 
+Sim, meu github ficou dois meses parado praticamente, mas eu estava envolvido em dublagens IA, repo novo mencionado abaixo (aviso temporário)
+
 Olá, me chamo Vinicius, ~~mas pode me chamar de Vini, Kat, ou como preferir~~ um entusiasta da programação e fissurado em data manipulation.
 Aqui será meu cantinho onde compartilharei meu workflow, meus projetos, meus treinamentos e principalmente meu **desenvolvimento**.
 
