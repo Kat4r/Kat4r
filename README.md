@@ -40,7 +40,7 @@ Aqui será meu cantinho onde compartilharei meu workflow, meus projetos, meus tr
 ## Portfólio Area.
 - [Dublagem Starfield IA](https://github.com/Kat4r/StarfieldPTBR)
 - [Jogo de RPG Text-based](https://github.com/theuslinor/Textle-Runners)
-- [Sistema Solar Observavél com Meshgrid e Analise de dados]( #falta subir o Repo
+- [Sistema Solar Observavél com Python]([https://github.com/Kat4r/Sistema-Solar-Observavel)
 - [Exercicios Python](https://github.com/Kat4r/ExerciciosPython)
 
 
