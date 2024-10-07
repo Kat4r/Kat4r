@@ -1,22 +1,21 @@
 # sout("Hello, stranger.");
 
-Sim, meu github ficou dois meses parado praticamente, mas eu estava envolvido em dublagens IA, repo novo mencionado abaixo (aviso temporário)
-
 Olá, me chamo Vinicius, ~~mas pode me chamar de Vini, Kat, ou como preferir~~ um entusiasta da programação e fissurado em data manipulation.
 Aqui será meu cantinho onde compartilharei meu workflow, meus projetos, meus treinamentos e principalmente meu **desenvolvimento**.
 
 ## Um pouco sobre mim
 
-- 👩‍💻 Atualmente estou estudando sobre programação, e me aprofundando em Data Science.
+- 👩‍💻 No momento curso Análise e Desenvolvimento de Sistemas e também sou estagiário DevSecOps na Compass.UOL
 - 🌱 Estou sempre em aprendizado constante, aprendendo novas coisas e melhorando o que já sei.
 - 💡 Meu hobby é transformar códigos minusculos e diversas linhas complexas, e também transformar linhas e mais linhas em códigos minusculos.
-- 📚 Atualmente estou em busca de provar meu breve conhecimento em algum emprego na área.
+- 📚 Atualmente busco minha especialização na área e um futuro bom emprego na area
 
 ## Áreas de Interesse
 
 - 🌐 Inglês.
 - 👩‍🔬 Inteligência Artificial e Machine Learning.
 - 📊 Data Science, Data Analytics, Serverside e Data Engineering.
+- ☁️ Cloud Compute, AWS, Segurança de código.
 
 ## Linguagens em destaque
 **Aqui citarei algumas langs que tenho estudado;**
@@ -27,6 +26,8 @@ Aqui será meu cantinho onde compartilharei meu workflow, meus projetos, meus tr
 - Java
 - MySQL
 - HTML/CSS/JS
+- Docker
+- Linux
 ---
 
 
@@ -34,7 +35,13 @@ Aqui será meu cantinho onde compartilharei meu workflow, meus projetos, meus tr
 
 - [Meu Instragram](https://www.instagram.com/__katarino/)
 - [Meu Linkedin](https://www.linkedin.com/in/katoliveira/)
-- [Meu Portfolio](https://github.com/Kat4r/Portfolio) #WIP
+
+
+## Portfólio Area.
+- [Dublagem Starfield IA](https://github.com/Kat4r/StarfieldPTBR)
+- [Jogo de RPG Text-based](https://github.com/theuslinor/Textle-Runners)
+- [Sistema Solar Observavél com Meshgrid e Analise de dados]( #falta subir o Repo
+- [Exercicios Python](https://github.com/Kat4r/ExerciciosPython)
 
 
 ## Contribuição
