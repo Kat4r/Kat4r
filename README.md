@@ -42,6 +42,8 @@ Aqui será meu cantinho onde compartilharei meu workflow, meus projetos, meus tr
 - [Jogo de RPG Text-based](https://github.com/theuslinor/Textle-Runners)
 - [Sistema Solar Observavél com Python](https://github.com/Kat4r/Sistema-Solar-Observavel)
 - [Exercicios Python](https://github.com/Kat4r/ExerciciosPython)
+- [Projeto de monitoramento NGINX com Linux](https://github.com/Kat4r/ProjetoLinuxCompass)
+- [Projeto Wordpress na AWS Cloud](https://github.com/Kat4r/ProjetoWordpressUOL)
 
 
 ## Contribuição
